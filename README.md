@@ -1,7 +1,7 @@
 # Olá, me chamo Juliana ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/Juliana2102/Juliana2102/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🏆 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="40" height="40" /> 
