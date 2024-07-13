@@ -15,6 +15,9 @@
 - 🤔 Preciso aumentar minha conexão com devs para troca de ideias e feedbacks
 - 📫 <a href="https://www.linkedin.com/in/juliana-ribeiro-mendes-83736428a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsK7KK3ZWSu2C%2Fmzgd5Q99Q%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+### 🐍 A Snake Eating My Contributions Graph
+
+![snake gif](https://github.com/Juliana2102/Juliana2102/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
