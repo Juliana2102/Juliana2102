@@ -17,9 +17,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: github-contribution-grid-snake.svg
-      - name: Push Snake
-        uses: ad-m/github-push-action@master
+      - name: Commit and Push Changes
+        uses: github-actions-x/commit@v2.10
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}
           branch: output
           force: true
