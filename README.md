@@ -12,7 +12,6 @@
           
 - 🔭 Atualmente procuro colocação no mercado de trabalho na área de tecnologia da informação ou análise de dados com Power BI
 - 🌱 Estou me aprofundando nos conceitos das tecnologias de FrontEnd e BackEnd
-- 🤔 Preciso aumentar minha conexão com devs para troca de ideias e feedbacks
 - 📫 <a href="https://www.linkedin.com/in/juliana-ribeiro-mendes-83736428a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsK7KK3ZWSu2C%2Fmzgd5Q99Q%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
