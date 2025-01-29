@@ -8,10 +8,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"  />
-          
-          
-- 🔭 Atualmente procuro colocação no mercado de trabalho na área de tecnologia da informação ou análise de dados com Power BI
-- 🌱 Estou me aprofundando nos conceitos das tecnologias de FrontEnd e BackEnd
+
+- 🔭 Sou Bacharel em Tecnologia da Informação, com experiência em desenvolvimento web (Frontend e Backend). 
+- 🌱 Tenho focado no aprimoramento das minhas habilidades em Java e Engenharia de Prompt e AWS.
+     
 - 📫 <a href="https://www.linkedin.com/in/juliana-ribeiro-mendes-83736428a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsK7KK3ZWSu2C%2Fmzgd5Q99Q%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
